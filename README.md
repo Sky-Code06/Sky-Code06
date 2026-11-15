@@ -59,7 +59,7 @@ Deployment          : Model Quantization (INT8/Float16), Pruning, Streamlit Edge
 ### 5. Developer Tools & Platforms
 ```
 Version Control     : Git, GitHub CLI (gh), CI/CD Workflows
-Software & Web      : Python (NumPy, SciPy, Matplotlib), Next.js, React, TypeScript, C/C++
+Software & Web      : Python (NumPy, SciPy, Matplotlib), Next.js, React, TypeScript, C/C++, WebExtensions (Manifest V3)
 Operating Systems   : Linux (Ubuntu), Windows, Embedded Linux
 ```
 
@@ -84,6 +84,14 @@ Operating Systems   : Linux (Ubuntu), Windows, Embedded Linux
 | [**VibroShield-Edge-SHM**](https://github.com/Sky-Code06/VibroShield-Edge-SHM) | **Edge AI & IoT** | Autonomous Edge Structural Health Monitoring system running TinyML Autoencoders directly on an ESP32 to detect mechanical anomalies from IMU vibration telemetry, synchronized with a real-time Streamlit dashboard. |
 | [**Flower-Recognition**](https://github.com/Sky-Code06/Flower-Recognition) | **Deep Learning / CV** | Empirical benchmark comparing a custom scratch-built CNN against MobileNetV2 transfer learning across 5 botanical species, evaluating training convergence, augmentation, and out-of-distribution web inference. |
 | [**DevForge (HackerStreet Rebels)**](https://github.com/Sky-Code06/HackerStreet-Rebels) | **AWS Hackathon** | Web IDE extension enforcing architectural discipline through continuous AST constraint validation, real-time risk scoring, and AWS Cost Whisperer cloud expenditure governance. |
+
+---
+
+### 🌐 Category C: Browser Extensions & Campus Automation Tools
+
+| Project | Domain | Architecture & Highlights |
+| :--- | :--- | :--- |
+| [**VTOP-Vault**](https://github.com/Sky-Code06/VTOP-Vault) | **Browser Extension (Manifest V3)** | Lightweight, automated Manifest V3 browser extension for VIT students. Intercepts CSRF/Auth-scoped POST streams to batch-download course materials into structured local hierarchies (`VIT Downloads/Course/Faculty/Module/filename.pdf`) with custom "Bully Blocker" collision avoidance. |
 
 ---
 
